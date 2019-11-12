@@ -1,0 +1,38 @@
+#all{
+    height: 700px;
+    width: 400px;
+    background-color: #E2231A;
+    margin: auto;
+    display: flex;
+}
+#all-l{
+    height: 150px;
+    width: 100%;position: relative;
+
+}
+/*#logo{*/
+/*height: 200px;*/
+/*width: 100px;*/
+/*position: relative;*/
+/*}*/
+#logo img {
+    height: 50px;
+    width: 70px;
+    margin-left: 70px;
+    margin-top: 40px;
+    position: absolute;
+    display: flex;
+}
+#a{
+    float: left;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#a
+#logo span{
+    display: flex;
+    font-size: unset;
+    float: left;
+
+
+}

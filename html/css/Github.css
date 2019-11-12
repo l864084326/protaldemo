@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+}
+div{
+
+}
+#Github{
+    background-color: #24292D;
+    height: 80px;
+}
+
+
+#family-s,#family-t,#family-f{
+    float: left;}
+    #family-e{
+        float: right;
+}
+a{
+    text-decoration: none;
+}
+
+#family-f{
+    height: 80px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+#family-t{
+    height: 80px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#family-t text {
+
+}
+#family-t input{
+
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    background: #3F4448;
+    padding-left: 10px;
+    float: left;
+    border: none;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+
+}
+#family-t button{
+    height: 40px;
+    width: 50px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 10px;
+}
+/*字母*/
+#family-s{
+    margin-left:0px;
+    float: left;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+.family-a{
+    height: 80px;
+  margin-left: 25px;
+    color: #FFFFFF;
+    float: left;
+}
+#y{
+    margin-left: 5px;
+
+}
+#family-s a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+text-align: center;
+float: left;}
+/*第四部分*/
+#family-e{
+    margin-right: 10px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#family-e-b{
+    margin-right: 15px;
+}
+#family-e-n{
+    margin-right: 1px;
+}
+#family-e-m{
+    margin-right: 15px;
+
+}
+#family-e-v{
+    margin-right: 1px;
+}

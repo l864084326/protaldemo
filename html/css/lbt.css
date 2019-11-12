@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+#tu{
+    height: 400px;
+    width: 500px;
+
+    /*border: 1px blue solid;*/
+    margin: auto;
+    position: relative;
+
+}
+#tu img{
+    height: 100%;
+    width: 100%;
+
+}
+#yuan{
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    /*border: 1px salmon solid;*/
+    position:absolute;
+    bottom: 5px;
+    left: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center}
+.yd{
+    background: white;
+    height: 16px;
+    width: 16px;
+    border-radius: 8px;
+    opacity: 0.5;
+}
+#sxy{
+    background: white;
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    position: absolute;
+    left: 135px;
+    bottom: 17px;
+/*第二部分*/
+}
+#er{
+    /*height: 30px;*/
+    width:  100%;
+    
+    position: absolute;
+    top: 50%;
+}
+#er-left{
+    position: absolute;
+    left: -25px;
+}
+#er1-2{
+    height: 30px;
+    width: 25px;
+    background-color: #FFFFFF;
+
+    float: left;
+}
+#er1-3{
+    height: 30px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0.5;
+}
+#er-right{
+    position: absolute;
+    right: -25px;
+
+}
+#er1-4{
+    height: 30px;
+    width: 25px;
+    background-color: #FFFFFF;
+    float: right;
+}
+#er1-5{
+    height: 30px;
+    width: 50px;
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0.5;
+}
+
+
