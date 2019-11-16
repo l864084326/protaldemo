@@ -51,6 +51,12 @@
     width: 100%;
     /*border: 1px gold solid;*/
 }
+#input1 input{
+     outline: none;
+ }
+#input   input{
+    outline: none;
+}
 #b2 {
     margin-top: -30px;
     display: flex;
@@ -221,38 +227,8 @@ margin-top: 40px;
 #wkt-d3 span{
     color: #4A90E2;
 }
-
-/*#a1 {*/
-    /**/
-    /*height: 120px;*/
-    /*width: 200px;*/
-    /*margin: auto;*/
-    /*border: 1px gold solid;*/
-
-
-
-
-/*}*/
-/*#a1 img{*/
-    /*height: 90px;*/
-    /*width: 120px;*/
-    /*margin-top: 12px;*/
-    /*margin-left: -50px;*/
-    /*display: block;*/
-/*}*/
-/*#a2{*/
-
-    /*height: 30px;*/
-    /*width: 200px;*/
-    /*font-size: 20px;*/
-    /*font-weight: bold;*/
-    /*border: 1px saddlebrown solid;*/
-/*}*/
-/*#a3{*/
-
-    /*height: 30px;*/
-    /*width: 200px;*/
-    /*font-size: 12px;*/
-    /*color: #8D8D8D;*/
-    /*border: 1px saddlebrown solid;*/
-
+#mm1{
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}

@@ -1,0 +1,252 @@
+#all{
+    height: 800px;
+    background-color: #B0B1B3;
+}
+#all1{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+#xjb img{
+    display: flex;
+    position: fixed;
+    margin-left: 10px;
+    top: 15px;
+    height: 20px;
+    width: 20px;
+}
+#all2{
+    height: 170px;
+    width: 100%;
+    background-color: #358B3E;
+
+}
+#a3 img{
+    margin-top: 80px;
+    margin-left: 30px;
+    height: 40px;
+    width: 40px;
+
+}
+#a3-1 span{
+     font-size: 20px;
+    margin-left: 20px;
+}
+#a4 img{
+    display: flex;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 120px;
+    height: 40px;
+    width: 40px;
+
+}
+#a3-2 span{
+    display: flex;
+    position: absolute;
+    margin-top: -28px;
+    font-size: 20px;
+    margin-left: 110px;
+}
+#a5 img{
+    display: flex;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 210px;
+    height: 40px;
+    width: 40px;
+
+}
+#a3-3 span{
+    display: flex;
+    position: absolute;
+    margin-top: -28px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+#a2{
+    display: flex;
+    position: absolute;
+    margin-top: -115px;
+    margin-left: 10px;
+}#a2 span{
+    font-size: small;
+    color: #B0B1B3;
+ }
+ #all3{
+     height: 120px;
+     width: 100%;
+     background-color: cornsilk;
+     display: flex;
+     justify-content: space-around;
+ }#t1{
+      display: flex;
+      position: absolute;
+      margin-top: -115px;
+      margin-left: 10px;
+  }#t1 span{
+       font-size: small;
+       color: #B0B1B3;
+   }
+   #b1 img{
+       margin-top: 30px;
+       height: 40px;
+       width: 40px;
+   }
+   #b1 span{
+       position: absolute;
+       margin-top: 70px;
+       margin-left: -50px;
+   }
+#b2 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#b2 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;}
+#b3 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#b3 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;}
+#all4{
+    height: 120px;
+    width: 100%;
+    background-color: #8795BD;
+    display: flex;
+    justify-content: space-around;
+}
+#t2{
+     display: flex;
+     position: absolute;
+     margin-top: -115px;
+     margin-left: 10px;
+ }#t2 span{
+      font-size: small;
+      color: #B0B1B3;
+  }
+#all5{
+    height: 120px;
+    width: 100%;
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: space-around;
+}
+  #c1 {
+      margin-left: -30% ;
+  }
+#c1 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#c1 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -40px;
+}
+#c2{
+    margin-left: -65%;
+
+}
+#c2 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#c2 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;
+}
+#t3{
+     display: flex;
+     position: absolute;
+     margin-top: -115px;
+     margin-left: 10px;
+ }#t3 span{
+      font-size: small;
+      color: #B0B1B3;
+  }
+#d1 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#d1 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;
+}
+#d2 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#d2 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;}
+#d3 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#d3 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;}
+#all6{
+    height: 120px;
+    width: 100%;
+    background-color: #FA6854;
+    display: flex;
+    justify-content: space-around;
+}
+#e1 {
+    margin-left: -30% ;
+}
+#e1 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#e1 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -40px;
+}
+#e2{
+    margin-left: -65%;
+
+}
+#e2 img{
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+#e2 span{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -50px;
+}
+#t4{
+    display: flex;
+    position: absolute;
+    margin-top: -115px;
+    margin-left: 10px;
+}#t4 span{
+     font-size: small;
+     color: #B0B1B3;
+ }

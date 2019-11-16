@@ -1,5 +1,5 @@
 #all{
-    height: 630px;
+    height: 700px;
     background-color: #FAFAFC;
 }
 #all-1{
@@ -196,9 +196,12 @@
     margin-top: 40px;
     color: #FFFFFF;
 }
-#e5{
+#e5 {
     margin-left: 10%;
     margin-top: 40px;
+
+}
+#e5 span{
     color: #FFFFFF;
 }
 #e6{
@@ -369,8 +372,86 @@
     width: 100%;
     top: 530px;
 
-    background-color: #E2231A;
+    /*background-color: #E2231A;*/
 }
 #all-6 hr{
     margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+#g1 img{
+    height: 30px;
+    width: 30px;
+    margin-left: 18%;
+}
+#g1 span{
+    position: absolute;
+    margin-left: -45px;
+    margin-top: 35px;
+}
+#g2 img{
+     height: 30px;
+     width: 30px;
+     margin-left: 20%;
+ }
+#g2 span{
+    position: absolute;
+    margin-left: -55px;
+    margin-top: 35px;
+}
+#g3 img{
+    height: 30px;
+    width: 30px;
+    margin-left: 20%;
+}
+#g3 span{
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 35px;
+}
+#all-6 span{
+    color: #999999;
+
+}
+#all-7{
+    position: absolute;
+    width: 100%;
+    top: 530px;
+    display: flex;
+    justify-content: space-around;
+}
+#all-7 span{
+    font-size: small;
+    color: black;
+
+}
+#j1,#j2{
+    margin-top: 100px;
+}
+#h1{
+    display: flex;
+    float: left;
+    /*position: absolute;*/
+    margin-top: 100px;
+    margin-left: 15%;
+}
+#h3{
+    display: flex;
+    float: left;
+    /*position: absolute;*/
+    margin-top: 100px;
+
+}
+#h3 img{
+    height: 20px;
+    width: 20px;
+    margin-left: 80%;
+    margin-top: -20px;
+}
+#h4{
+    display: flex;
+    float: left;
+    /*position: absolute;*/
+    margin-top: 100px;
+    margin-right: 15%;
 }
