@@ -223,6 +223,7 @@ border-radius: 20px;
     justify-items: center;
 }
 #e1 span{
+    display: flex;
     margin-top: 10px;
     color: #FFFFFF;
 }
