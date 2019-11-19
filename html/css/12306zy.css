@@ -1,15 +1,10 @@
 #all{
-    height: 700px;
+    height: 650px;
     background-color: #FAFAFC;
 }
 #all-1{
 
 
-    /*border:1px black solid;*/
-    /*display: flex;*/
-    /*position: relative;*/
-    /*display: flex;*/
-    /*float: left;*/
 }
 #all-1 img{
     display: flex;
@@ -20,18 +15,19 @@
 
 }
 #a{
-    height: 30px;
+    height: 40px;
     width: 100%;
-    /*background-color: blue;*/
-    /*position: absolute;*/
-    margin-top: 5px;
-    position: fixed;
-    /*margin-top: px;*/
+    /*background-color: cadetblue;*/
+    position: absolute;
+    margin-top: 0px;
+    /*position: fixed;*/
+
     /*margin-left: 10px;*/
 }
 #aa {
     height: 30px;
     width: 80%;
+    margin-top: 5px;
     margin-left: 8px;
     border-radius: 15px;
     background-color: white;
@@ -416,7 +412,7 @@
 #all-7{
     position: absolute;
     width: 100%;
-    top: 530px;
+    top: 520px;
     display: flex;
     justify-content: space-around;
 }

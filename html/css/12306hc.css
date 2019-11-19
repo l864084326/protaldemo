@@ -1,15 +1,17 @@
 #all{
-    height: 700px;
+    height: 500px;
 
     /*background-color: palevioletred;*/
 }
 #allx{
+
     height: 60px;
     width: 100%;
     display: flex;
     position: fixed;
     justify-content: space-around;
-    bottom: 0;
+   bottom: 0;
+    /*margin-top: 100%;*/
     background-color: #FFFFFF;
 
 }#x1{
@@ -44,7 +46,7 @@
     width: 30px;
 }
 #g2 span{
-    margin-left: 3px;
+    margin-left: 5px;
     font-size: 15px;
     color: #B0B1B3;
 }
@@ -62,7 +64,7 @@
     width: 30px;
 }
 #g3 span{
-    margin-left: 3px;
+    margin-left: 5px;
     font-size: 15px;
     color: #B0B1B3;
 }

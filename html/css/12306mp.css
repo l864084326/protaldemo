@@ -815,7 +815,7 @@
     background-color: #3C4B58;
     display: flex;
     position: fixed;
-    margin-top: -280px;
+    bottom: 0;
 
     justify-content: center;
     align-items: center;
